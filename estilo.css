@@ -1,0 +1,82 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+/* parte da descrição */
+.cima {
+    z-index: 1;
+    position: relative;
+    bottom: 682px; 
+    padding: 0%;
+    margin: 0%;      
+}
+
+.beat-txt {
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    bottom: 1320px;
+    font-size: 60px;
+    color: #A52E2C;
+    left: 60px;
+}
+
+.beat {
+    position: relative;
+    left: 520px;
+    bottom: 34px;
+    width: 950px;
+}
+
+a {
+    position: relative;
+    z-index: 3;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+div#navbar a {
+    color: #A52E2C;
+    padding: 25px 25px;
+    margin: 2px;
+    position: relative;
+    top: 40px;
+    left: 60px;
+    font-size: 1.7rem;
+}
+
+ p a links da descrição  { 
+    color: #A52E2C;     
+}
+
+/* .text  descrição  { 
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    bottom: 1320px;
+} */
+
+div.contato {
+    position: relative;
+    left: 300px ;    
+}
+
+.text {
+    font-family: 'Roboto', sans-serif;
+    z-index: 3;
+    position: relative;
+    bottom: 1320px;
+    padding-left: 57px;
+    font-size: 28px;
+    padding: 0%;
+    margin: 0%;  
+}
+
+.text a {
+    color: #A52E2C; 
+}
+
+/* div.text {
+    z-index: 3;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    bottom: 0px;
+} */
